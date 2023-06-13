@@ -1,5 +1,5 @@
 # django-library-management-
-This is a simple library management system built for Major Project 2021 by Abhik Bhattacharya (id : 181001102058) & Saikat Shee (id : 181001102053 )
+This is a simple library management system built for Major Project.
 
 <!-- ### It is deployed [here](https://abhik-b.github.io/pomodro-timer/) -->
 requirement :- 
